@@ -9,7 +9,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: Run test step
+      - name: 22f3002771@ds.study.iitm.ac.in
         run: echo "Hello, world!"
       
       - name: Notify user
